@@ -1,6 +1,7 @@
 # flutterdemogetx
 
-A new Flutter application. Clean Architecture + Get State manager
+A new Flutter application. Clean Architecture + Get State managert
+Abour Get: https://docs.google.com/presentation/d/1_qHaxqsGB77H7Hg_0qz95ILgDhZoKV4ZmhbgYciHAe0/edit?usp=sharing
 
 ## Getting Started
 
