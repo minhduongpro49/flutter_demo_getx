@@ -1,6 +1,6 @@
 # flutterdemogetx
 
-A new Flutter application.
+A new Flutter application. Clean Architecture + Get State manager
 
 ## Getting Started
 
